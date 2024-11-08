@@ -2,7 +2,7 @@
 
 ### A Chessground Implementation for React
 
-A modern React wrapper around the **chessground** library with added features like move validation, theme customization, promotion dialogs, and more.
+A modern React wrapper around the **chessground** library with added features like move validation, theme customization, promotion dialogs.
 
 ---
 
